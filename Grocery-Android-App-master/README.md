@@ -1,6 +1,6 @@
-# SPSGP-82074-Virtual-Internship---Android-Application-Development-Using-Kotlin
-Virtual Internship - Android Application Development Using Kotlin
-My name is DAMMAVALAM KAVYA LAKSHMI NAGA SRI
+# About Me
+## My name is DAMMAVALAM KAVYA LAKSHMI NAGA SRI
+
 Virtual Internship - Android Application Development Using Kotlin
 
 Google Supported Virtual Internship - Android Application Development Using Kotlin by Smart Internz
@@ -9,7 +9,7 @@ Project - Grocery Android App This Project is a part of Google Supported Virtual
 
 Project Docementation link-https://docs.google.com/document/d/1RLMsA2siD0T1LNBbuJgqWwiPDDpWn6jw/edit?usp=sharing&ouid=104052525775898161869&rtpof=true&sd=true
 
-Guithub project link-
+Guithub project link-https://github.com/smartinternz02/SPSGP-93650-Virtual-Internship---Android-Application-Development-Using-Kotlin
 
 Google Developer profile link-https://g.dev/kavya13
 
